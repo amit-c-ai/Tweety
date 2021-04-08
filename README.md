@@ -8,7 +8,7 @@
   * _logout_
   
 * __How to setup:__ 
-  * _download code_
+  * _clone this repository_
   * _download python from [here](https://www.python.org/downloads/)_
   * _install chromedriver.exe from [here](https://chromedriver.storage.googleapis.com/index.html?path=89.0.4389.23/)(according to your chrome version)_
   * _download selenium using "pip install selenium" in cmd_
